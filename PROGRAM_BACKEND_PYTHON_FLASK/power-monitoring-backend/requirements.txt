@@ -1,0 +1,10 @@
+# Power Monitoring Backend - Python Dependencies
+
+# MQTT client with auto-reconnect support
+paho-mqtt>=2.0.0
+
+# InfluxDB Cloud client
+influxdb-client>=1.40.0
+
+# Environment variable loading from .env file
+python-dotenv>=1.0.0
